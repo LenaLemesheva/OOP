@@ -41,4 +41,5 @@ public class BaseHero {
         }
         // else { die(); }
     }
+    
 }
