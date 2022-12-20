@@ -23,7 +23,5 @@ public class Program {
             "Имя", "Фамилия", 23, 4567);
 
         //Iterator<Object> components = worker.iterator();
-
-        
     }
 }
