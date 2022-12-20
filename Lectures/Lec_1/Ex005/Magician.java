@@ -13,6 +13,7 @@ public class Magician {
     private int mana;
     private int maxMana;
 
+    
     static {
         Magician.number = 0;
         Magician.r = new Random();
